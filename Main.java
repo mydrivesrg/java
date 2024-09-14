@@ -4,5 +4,9 @@ public class Main {
         String name = "Satish";
         System.out.println(name);
         System.out.println("First printing");
+
+
+
+        String lastName;
     }
 }
